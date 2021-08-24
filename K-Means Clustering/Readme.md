@@ -15,7 +15,7 @@ This project mainly focus on segmenting the customers into different cluster on 
 
 ### Final Clustered Result <br><br>
 
-![Screenshot](Images/Customersegmentation.PNG)
+![Screenshot](./Images/Customersegmentation.PNG)
 
 <br>
 <br>
