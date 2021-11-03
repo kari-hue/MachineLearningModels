@@ -14,8 +14,8 @@ This project mainly focus on segmenting the customers into different cluster on 
 ### <b> Result Screenshots </b><br><br>
 
 ### Final Clustered Result <br><br>
+![image](https://user-images.githubusercontent.com/57294417/140095797-1f7f9b22-b54e-4360-84a5-983a30dc54cf.png)
 
-![Screenshot](./Images/Customersegmentation.PNG)
 
 <br>
 <br>
