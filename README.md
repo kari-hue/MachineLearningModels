@@ -7,5 +7,5 @@ This repository mainly contains project that I have during my data fellowship an
 * Exploratory Data Analyis
 * Data cleaning
 * Implementing ful Machine Learning pipeline
-* Working with imbalnce datasets
+* Working with imbalance datasets
 so on and so forth...........
